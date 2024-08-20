@@ -16,3 +16,10 @@ Welcome to the ITI Math Repository! This repository contains a collection of Jup
 - [Limits and Continuity](./Calculus/Limits_and_Continuity.ipynb): Fundamentals of limits, continuity, and their significance in calculus.
 - [Differentiation](./Calculus/Differentiation.ipynb): Techniques and applications of differentiation in various contexts.
 - [Integration](./Calculus/Integration.ipynb): Understanding definite and indefinite integrals and their applications.
+
+
+## Contributing
+Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
+
+## Contact
+feel free to contact me for further discussions : amir.tarek11@gmail.com
