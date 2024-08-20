@@ -8,8 +8,8 @@ Welcome to the ITI Math Repository! This repository contains a collection of Jup
 - [Matrix Decomposition](./Linear_Algebra/Matrix_Decomposition.ipynb): Overview of LU, QR, and SVD decompositions.
 
 ### 2. Statistics
-- [Descriptive Statistics](./Probability and Statistics/Day2.ipynb): Measures of central tendency, variability, and data visualization.
-- [Probability Distributions](./Statistics/Probability_Distributions.ipynb): Common probability distributions and their properties.
+- [Descriptive Statistics](./Statistics/Day2.ipynb): Measures of central tendency, variability, and data visualization.
+- [Probability Distributions](./Statistics/Day3.ipynb): Common probability distributions and their properties.
 - [Hypothesis Testing](./Statistics/Hypothesis_Testing.ipynb): Concepts and methods for statistical inference.
 
 ### 3. Calculus
