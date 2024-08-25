@@ -9,7 +9,7 @@ Welcome to the ITI Math Repository! This repository contains a collection of Jup
 
 ### 2. Statistics
 - [Descriptive Statistics](./Statistics/Day2.ipynb): Measures of central tendency, variability, and data visualization.
-- [Probability Distributions](./Statistics/Day3.ipynb): Common probability distributions and their properties.
+- [Probability Distributions](./Statistics/Day4.ipynb): Common probability distributions and their properties.
 - [Hypothesis Testing](./Statistics/Hypothesis_Testing.ipynb): Concepts and methods for statistical inference.
 
 ### 3. Calculus
