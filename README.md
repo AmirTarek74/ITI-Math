@@ -1,5 +1,5 @@
 # Master Maths for AI and DS Repository
-Welcome to the Master Maths for AI and DS Repository! This repository contains a collection of Jupyter notebooks designed to help you understand and master essential concepts in mathematics, including Linear Algebra, Statistics, and Calculus, these notes are taking from Dr. Hatem Elattar.
+Welcome to the Master Maths for AI and DS Repository! This repository contains a collection of Jupyter notebooks designed to help you understand and master essential concepts in mathematics, including Linear Algebra, Statistics, and Calculus, these notes are taking from Dr. Hatem Elattar
 [Youtube channel](https://www.youtube.com/@ArtificialIntelligenceDataScie).
 ## Contents
 
